@@ -1,5 +1,5 @@
 # Dynamic Similarity Graph Construction with Kernel Density Estimation
-This repo provides the code necessary to repeat the experiments in the paper. "Dynamic Similarity Graph Construction with Kernel Density Estimation"
+This repo provides the code necessary to repeat the experiments in the paper. "Dynamic Similarity Graph Construction with Kernel Density Estimation".
 
 The algorithms are implemented in C++, and build with the cmake build tool.
 
